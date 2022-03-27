@@ -11,6 +11,7 @@
   inputs.src-pvim-master.ref   = "refs/heads/master";
   inputs.src-pvim-master.owner = "paranim";
   inputs.src-pvim-master.repo  = "pvim";
+  inputs.src-pvim-master.dir   = "";
   inputs.src-pvim-master.type  = "github";
   
   inputs."paravim".owner = "nim-nix-pkgs";
