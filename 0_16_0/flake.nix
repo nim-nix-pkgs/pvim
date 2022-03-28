@@ -11,7 +11,6 @@
   inputs.src-pvim-0_16_0.ref   = "refs/tags/0.16.0";
   inputs.src-pvim-0_16_0.owner = "paranim";
   inputs.src-pvim-0_16_0.repo  = "pvim";
-  inputs.src-pvim-0_16_0.dir   = "";
   inputs.src-pvim-0_16_0.type  = "github";
   
   inputs."paravim".owner = "nim-nix-pkgs";
