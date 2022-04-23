@@ -228,11 +228,11 @@
       },
       "locked": {
         "dir": "0_18_2",
-        "lastModified": 1648275646,
-        "narHash": "sha256-OOB+ZoahaNrgqtfENFXbwr+qy2s421lHZrwbup0+qYk=",
+        "lastModified": 1650757933,
+        "narHash": "sha256-AMGsACfeXT8P3EXcMznki9GsK0Fk8SBhLnJh4Adf+OI=",
         "owner": "nim-nix-pkgs",
         "repo": "paravim",
-        "rev": "ede94c214e2c8de3efa044077e24a1307e823d1d",
+        "rev": "a702b13c62c3b4f9bc1c64cff0afd5e766d39094",
         "type": "github"
       },
       "original": {
